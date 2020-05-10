@@ -9,7 +9,7 @@ I hope you like it!
 
 Initialy you need make the donwload and the instalation of pyhton on your PC,
 after is just create one code in your favourite text editor, i use sublime.
-Write the code and press crtl+b for execute.
+Write the code and press CRTL+B for execute.
 
 ## Lessons
 
