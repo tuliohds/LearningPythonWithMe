@@ -1,18 +1,4 @@
-'''
-Hello people, Welcome to my lessons on Python.
-This job is make for help iniciant developers in Python.
-I hope you like it!
-
-My social medias
-Linkedin: linkedin.com/in/tuliohds
-Behance: behance.net/tuliohds
-Medium: medium.com/@tuliohenriquess
-GitHub: github.com/TulioHenrique
-
-Initialy you need make the donwload and the instalation of pyhton on your PC,
-after is just create one code in your favourite text editor, i use sublime.
-Write the code and press crtl+b for execute.
-'''
+#-*- coding: utf-8 -*-
 
 # First Code, performing the classic Hello World
 print("Hello World")
@@ -88,3 +74,82 @@ print(x == y) #False
 print("AND | Two conditions must be True")
 print("OR | At least one condition must be True")
 print("NOT | Invert the value")
+
+#Using the Logical operators
+x = 3
+y = 3
+z = 3
+
+print(x == y and x == y) #True
+print(y != x and x == y) #False
+print(y != x or x == y) #True
+
+#Indentation
+# For using conditional commands is important using indentation
+# for using indentation is easy, need only press TAB on keyboard on code. 
+
+#Conditional Commands
+# if
+x = 1
+y = 1000
+
+if x > y:
+	print("x is greater than y")
+
+if y > x:
+	print("y is greater than x")
+
+# if and else
+x = 1000
+y = 1
+
+if y > x:
+	print("y is greater than x")
+else:
+	print("x is greater than y")
+
+# while
+x = 0
+
+while x < 5:
+	print(x)
+	x= x+1
+	# x += 1 is same x= x+1
+
+#Repetitive Links
+# For using list with values
+list1 = [1,2,3,4,5]
+list2 = ["Hello","World","!"]
+list3 = [0,"Hello","Salad","Oil",9.99,True]
+
+for i in list3:
+	print(i)
+
+#Now is a For using range
+## If you use a number, the number will be counted.
+for i in range(10):
+	print(i)
+
+## If you use two the first number will be the beginning and the second the limit.
+for i in range(10,20):
+	print(i)
+
+## If you use three the number will be divided.
+for i in range(10,20,2):
+	print(i)
+
+#Object
+'''
+It has been agreed that in Python everything is an object. In fact, Python is an object-oriented language.
+
+Objects are instances of classes. For example, when you create a variable with a string, you are creating a string object.
+
+Objects have attributes (characteristics) and methods (actions that can be applied).
+
+Notice how to check attributes and methods to an object:
+
+object.attribute
+object.method( )
+
+Translated with www.DeepL.com/Translator (free version)
+'''
