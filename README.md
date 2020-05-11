@@ -20,7 +20,6 @@ Write the code and press CRTL+B for execute.
 * **Basic Operators**
 * **Relationaly Operators**
 * **Logical Operators**
-* **Indentation**
-* **Conditional Commands**
+* **Indentation and Conditional Commands**
 * **Repetitive Links**
 * **Object**
