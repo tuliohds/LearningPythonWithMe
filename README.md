@@ -14,12 +14,11 @@ Write the code and press CRTL+B for execute.
 ## Lessons
 
 * **[Classic Hello World](/HelloWorld.py)**
-* **[Mathematical expressions]**
-* **[Variables]**
-* **[Basic Data Types]**
-* **[Basic Operators]**
-* **[Relationaly Operators]**
-* **[Logical Operators]**
-* **[Indentation and Conditional Commands]**
-* **[Repetitive Links]**
-* **[Object]**
+* **[Mathematical expressions](/MathematicalExpressions.py)**
+* **[Basic Data Types](/BasicDataTypes.py)**
+* **[Basic Operators](/BasicOperators.py)**
+* **[Relationaly Operators](/RelationalyOperators.py)**
+* **[Logical Operators](/LogicalOperators.py)**
+* **[Indentation and Conditional Commands](/IndentationEConditionalCommands.py)**
+* **[Repetitive Links](/RepetitiveLinks.py)**
+* **[Object](/Object.py)**
