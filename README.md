@@ -13,13 +13,13 @@ Write the code and press CRTL+B for execute.
 
 ## Lessons
 
-* **Classic Hello World**
-* **Mathematical expressions**
-* **Variables**
-* **Basic Data Types**
-* **Basic Operators**
-* **Relationaly Operators**
-* **Logical Operators**
-* **Indentation and Conditional Commands**
-* **Repetitive Links**
-* **Object**
+* **[Classic Hello World](/HelloWorld.py)**
+* **[Mathematical expressions]**
+* **[Variables]**
+* **[Basic Data Types]**
+* **[Basic Operators]**
+* **[Relationaly Operators]**
+* **[Logical Operators]**
+* **[Indentation and Conditional Commands]**
+* **[Repetitive Links]**
+* **[Object]**
