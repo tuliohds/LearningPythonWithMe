@@ -22,4 +22,4 @@ Write the code and press CRTL+B for execute.
 * **[Indentation and Conditional Commands](/IndentationEConditionalCommands.py)**
 * **[Repetitive Links](/RepetitiveLinks.py)**
 * **[Object](/Object.py)**
-* **[Object](/Strings.py)**
+* **[Strings](/Strings.py)**
