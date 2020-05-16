@@ -23,3 +23,4 @@ Write the code and press CRTL+B for execute.
 * **[Repetitive Links](/RepetitiveLinks.py)**
 * **[Object](/Object.py)**
 * **[Strings](/Strings.py)**
+* **[Functions](/Functions.py)**
