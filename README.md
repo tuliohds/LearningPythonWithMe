@@ -5,6 +5,9 @@ This job is make for help iniciant developers in Python.
 I hope you like it!
 
 ## My social medias
+
+Follow me coders! 
+
 [LINKEDIN](https://www.linkedin.com/in/tuliohds) | [BEHANCE](https://www.behance.net/tuliohds) | [MEDIUM](https://www.medium.com/@tuliohenriquess) | [GITHUB](https://www.github.com/TulioHenrique)
 
 Initialy you need make the donwload and the instalation of pyhton on your PC,
@@ -24,3 +27,6 @@ Write the code and press CRTL+B for execute.
 * **[Object](/Object.py)**
 * **[Strings](/Strings.py)**
 * **[Functions](/Functions.py)**
+* **[Archives](/Archives.py)**
+* **[List](/List.py)**
+* **[Dictionary](/Dictionary.py)**
