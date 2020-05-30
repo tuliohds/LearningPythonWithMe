@@ -30,3 +30,5 @@ Write the code and press CRTL+B for execute.
 * **[Archives](/Archives.py)**
 * **[List](/List.py)**
 * **[Dictionary](/Dictionary.py)**
+* **[Random Numbers](/RandomNumbers.py)**
+* **[Exception Handling](/ExceptionHandling.py)**
