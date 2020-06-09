@@ -32,3 +32,4 @@ Write the code and press CRTL+B for execute.
 * **[Dictionary](/Dictionary.py)**
 * **[Random Numbers](/RandomNumbers.py)**
 * **[Exception Handling](/ExceptionHandling.py)**
+* **[Exercise Lists](/ExerciseLists.py)**
