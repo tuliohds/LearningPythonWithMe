@@ -9,7 +9,7 @@ a = "Santiago"
 b = "Blue"
 
 # Concatenating strings
-concat = a + " and " + b
+concat = f"{a} and {b}"
 print(concat)
 
 # Counting letters on string
@@ -33,7 +33,7 @@ print(concat[0:17]) #Santiago and Blue
 a = "CaLiFoRNia"
 b = "DReaM"
 
-concat = a + " and " + b
+concat = f"{a} and {b}"
 print(concat) # All letters are how initially 	
 print(concat.lower()) # All letters are tiny
 print(concat.upper()) # All letters are capital	
@@ -43,7 +43,7 @@ concat = concat.lower() # All letters are tiny, but now is using variable
 print(concat)
 
 # For create a line break
-concat = "\n" + a + "\n and \n" + b 
+concat = f"\n{a}\n and \n{b}"
 print(concat) 
 
 # For removing special characters and space on the begin and in the end.
@@ -69,5 +69,5 @@ search = my_string.find("nothing")
 print(search) # is returned -1 position on the array
 
 # and finally, one interesting method is replace
-search = my_string.replace("2B","to be")
+search = my_string.replace("2B", "to be")
 print(search) # to be or not to be
