@@ -12,7 +12,7 @@ print(my_dictionary["A"]) # Academic
 print(my_dictionary) # {'A': 'Academic', 'B': 'Ball', 'C': 'Car'}
 
 for key in my_dictionary:
-	print(key + ":" + my_dictionary[key])
+	print(f"{key}: {my_dictionary[key]})
 
 for i in my_dictionary.items():
 	print(i)
